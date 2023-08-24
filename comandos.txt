@@ -1,0 +1,4 @@
+npm i -g nodemon (nodemon start)
+npm i -g sequelize-auto
+
+sequelize-auto -o "./models" -d db_prueba_cel -u root -p 3306 -h localhost
